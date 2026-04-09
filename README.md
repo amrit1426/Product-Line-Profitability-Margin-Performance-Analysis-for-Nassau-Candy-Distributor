@@ -278,16 +278,6 @@ jupyter
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-Data Analyst Intern — Unified Mentor  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🐙 [GitHub Profile](https://github.com/your-username)
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).  
