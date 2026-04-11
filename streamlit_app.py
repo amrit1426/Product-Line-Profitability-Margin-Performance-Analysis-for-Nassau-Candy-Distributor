@@ -30,8 +30,9 @@ logo_base64 = get_base64_image("assets/logo.png")
 st.markdown(
     f"""
     <div style=" background-color: #0D1117; border-bottom: 1px solid #e5e7eb; 
-    padding: 25px 0; display: flex; justify-content: center; align-items: center; gap: 8vw; ">
-        <img src="data:image/png;base64,{logo_base64}" >
+    padding: 25px 0; display: flex; justify-content: left; align-items: left; gap: 8vw; ">
+        <img src="data:image/png;base64,{logo_base64}"
+        style="max-height: 120px; width: auto;" >
     </div>
     """,
     unsafe_allow_html=True
