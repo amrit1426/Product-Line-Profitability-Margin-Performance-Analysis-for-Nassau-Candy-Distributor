@@ -166,22 +166,7 @@ The dashboard is organized into **5 interactive modules**, accessible via the si
 - 🔎 Product search
 - 📐 Margin risk threshold slider
 
----
 
-## 🖼️ Dashboard Screenshots
-
-> *Screenshots will be added after deployment.*
-
-| Module | Preview |
-|---|---|
-| Overview — KPIs & Trend | `[Screenshot Placeholder]` |
-| Product Profitability Leaderboard | `[Screenshot Placeholder]` |
-| Portfolio Positioning Scatter | `[Screenshot Placeholder]` |
-| Division Performance | `[Screenshot Placeholder]` |
-| Cost Diagnostics | `[Screenshot Placeholder]` |
-| Pareto Analysis | `[Screenshot Placeholder]` |
-
----
 
 ## 🚀 How to Run the Project
 
