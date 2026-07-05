@@ -191,9 +191,31 @@ Representative visuals from the EDA notebook (`20260125_Nassau_Candy_Distributor
 </table>
 
 <details>
-<summary>View all 8 EDA plots</summary>
+<summary><b>View all 8 EDA Plots</b></summary>
 
-`images/1.png` · `images/2.png` · `images/3.png` · `images/4.png` · `images/5.png` · `images/6.png` · `images/7.png` · `images/8.png`
+<br>
+
+<table>
+<tr>
+<td><img src="images/1.png" width="350"></td>
+<td><img src="images/2.png" width="350"></td>
+</tr>
+
+<tr>
+<td><img src="images/3.png" width="350"></td>
+<td><img src="images/4.png" width="350"></td>
+</tr>
+
+<tr>
+<td><img src="images/5.png" width="350"></td>
+<td><img src="images/6.png" width="350"></td>
+</tr>
+
+<tr>
+<td><img src="images/7.png" width="350"></td>
+<td><img src="images/8.png" width="350"></td>
+</tr>
+</table>
 
 </details>
 
@@ -242,10 +264,10 @@ Representative visuals from the EDA notebook (`20260125_Nassau_Candy_Distributor
 ## 📁 Repository Structure
 
 ```
-Unified_mentor_project/
+Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor/
 │
 ├── assets/
-│   └── um.png
+│   └── logo.png
 │
 ├── docs/
 │   ├── Executive_Summary.docx
@@ -284,8 +306,8 @@ Unified_mentor_project/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/amrit1426/Unified_mentor_project.git
-cd Unified_mentor_project
+git clone https://github.com/amrit1426/Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor.git
+cd Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor
 pip install -r requirements.txt
 ```
 
@@ -305,7 +327,7 @@ The app will open in your browser at `http://localhost:8501`. It loads the datas
 
 ## 🙏 Acknowledgements
 
-<img src="assets/um.png" width="160"/>
+<img src="assets/logo.png" width="160"/>
 
 This project was completed as part of the **Data Analyst Internship Programme at Unified Mentor**.
 
@@ -315,7 +337,8 @@ This project was completed as part of the **Data Analyst Internship Programme at
 
 **Amrit Baruah**
 📧 abaruah289@gmail.com
-🔗 [GitHub](https://github.com/amrit1426)
+🔗 [GitHub](https://www.linkedin.com/in/amrit1426)
+🔗 [LinkedIn](https://www.linkedin.com/in/amrit1426)
 
 ---
 
