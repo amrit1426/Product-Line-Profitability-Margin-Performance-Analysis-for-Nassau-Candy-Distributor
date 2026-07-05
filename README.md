@@ -191,30 +191,21 @@ Representative visuals from the EDA notebook (`20260125_Nassau_Candy_Distributor
 </table>
 
 <details>
-<summary><b>View all 8 EDA Plots</b></summary>
+<summary><b>View all EDA Plots</b></summary>
 
 <br>
 
 <table>
 <tr>
-<td><img src="images/1.png" width="350"></td>
 <td><img src="images/2.png" width="350"></td>
-</tr>
-
-<tr>
 <td><img src="images/3.png" width="350"></td>
-<td><img src="images/4.png" width="350"></td>
 </tr>
 
 <tr>
-<td><img src="images/5.png" width="350"></td>
 <td><img src="images/6.png" width="350"></td>
+<td><img src="images/7.png" width="350"></td>
 </tr>
 
-<tr>
-<td><img src="images/7.png" width="350"></td>
-<td><img src="images/8.png" width="350"></td>
-</tr>
 </table>
 
 </details>
